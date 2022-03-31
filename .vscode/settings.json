@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/01dbb23a-ef32-42ef-a9e3-f2840aa549f7/resourceGroups/ZCSWeb-py/providers/Microsoft.Web/sites/ZCSWeb",
+    "appService.deploySubpath": "."
+}
